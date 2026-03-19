@@ -19,7 +19,7 @@ public class Main {
         }
     }
 
-    static Worker[] workers = new Worker[2];
+    static Worker[] workers = new Worker[5];
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
